@@ -60,6 +60,5 @@ This project demonstrates how Python functions and lists can be used to perform 
 <img width="382" height="587" alt="image" src="https://github.com/user-attachments/assets/2b10bd01-248b-4e84-b21e-3740a166b261" />
 <img width="520" height="611" alt="image" src="https://github.com/user-attachments/assets/19e9a73f-e18d-4cfe-8c9d-23c6868f4407" />
 
-
 ..
 stitution's submission and attribution requirements before publishing or submitting it.
