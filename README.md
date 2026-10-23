@@ -46,27 +46,11 @@ This project is a simple Python-based Data Analyzer and Transformer. It allows u
    ```
 5. Select the required option from the menu.
 6. Enter your data and view the results.
-## Sample Input
-```text
-1. Enter 1D List
-2. Enter 2D List
-Enter your choice: 1
-Enter numbers: 10 20 30 40 50
-```
-## Sample Output
-```text
-1D List: [10, 20, 30, 40, 50]
-Total elements: 5
-Sum: 150
-Minimum: 10
-Maximum: 50
-Average: 30.0
-```
+
 ## Conclusion
 This project demonstrates how Python functions and lists can be used to perform basic data analysis and transformation. It provides practical experience with built-in functions, user-defined functions, argument handling, and data processing.
-is project is intended for educational purposes. Review the code and follow your in
 
-Output:
+# Output:
 <img width="525" height="537" alt="image" src="https://github.com/user-attachments/assets/703a8192-a02e-4fd7-bc4f-add224f9e01d" />
 <img width="497" height="412" alt="image" src="https://github.com/user-attachments/assets/44f76277-7fe3-44d7-993b-9566c9794997" />
 <img width="501" height="535" alt="image" src="https://github.com/user-attachments/assets/f41c0256-6c04-43e0-85a5-a88bedcaa6fb" />
